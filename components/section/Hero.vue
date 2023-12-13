@@ -23,7 +23,7 @@
           <div class="">
             <a
               href="#"
-              class="text-base font-semibold text-white bg-blue-500 py-3 px-8 rounded-full hover:shadow-lg hover:bg-white hover:text-yellow-300 transition duration-300 ease-in-out"
+              class="text-base bg-third font-semibold text- bg-blue-500 py-3 px-8 rounded-full hover:shadow-lg hover:bg-[#fff] hover:text-yellow-300 transition duration-300 ease-in-out"
               >Learn More</a
             >
           </div>

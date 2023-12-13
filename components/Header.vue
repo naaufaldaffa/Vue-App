@@ -3,7 +3,7 @@
     <div class="px-24 flex items-center justify-between font-poppins">
       <NuxtLink
         to="/"
-        class="font-extrabold text-white hover:text-yellow-400 transition ease-in-out duration-300"
+        class="font-bold text-white hover:text-yellow-400 transition ease-in-out duration-300"
         >SIMAPRES</NuxtLink
       >
       <nav class="hidden md:flex items-center gap-10 text-sm">
